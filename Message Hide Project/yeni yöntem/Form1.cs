@@ -212,4 +212,5 @@ namespace yeni_yöntem
 }
 
 
-
+//if you want to retrive the hidden message as a string message
+//it is very simple with bitwise
