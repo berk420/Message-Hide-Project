@@ -1,0 +1,22 @@
+C:\Users\berkg\source\repos\BloGs Project\yeni yöntem\bin\Debug\netcoreapp3.1\hide message to image.exe
+C:\Users\berkg\source\repos\BloGs Project\yeni yöntem\bin\Debug\netcoreapp3.1\hide message to image.deps.json
+C:\Users\berkg\source\repos\BloGs Project\yeni yöntem\bin\Debug\netcoreapp3.1\hide message to image.runtimeconfig.json
+C:\Users\berkg\source\repos\BloGs Project\yeni yöntem\bin\Debug\netcoreapp3.1\hide message to image.runtimeconfig.dev.json
+C:\Users\berkg\source\repos\BloGs Project\yeni yöntem\bin\Debug\netcoreapp3.1\hide message to image.dll
+C:\Users\berkg\source\repos\BloGs Project\yeni yöntem\bin\Debug\netcoreapp3.1\hide message to image.pdb
+C:\Users\berkg\source\repos\BloGs Project\yeni yöntem\bin\Debug\netcoreapp3.1\SkiaSharp.dll
+C:\Users\berkg\source\repos\BloGs Project\yeni yöntem\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\berkg\source\repos\BloGs Project\yeni yöntem\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\berkg\source\repos\BloGs Project\yeni yöntem\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\berkg\source\repos\BloGs Project\yeni yöntem\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\berkg\source\repos\BloGs Project\yeni yöntem\obj\Debug\netcoreapp3.1\hide message to image.csproj.AssemblyReference.cache
+C:\Users\berkg\source\repos\BloGs Project\yeni yöntem\obj\Debug\netcoreapp3.1\yeni_yöntem.Form1.resources
+C:\Users\berkg\source\repos\BloGs Project\yeni yöntem\obj\Debug\netcoreapp3.1\hide message to image.csproj.GenerateResource.cache
+C:\Users\berkg\source\repos\BloGs Project\yeni yöntem\obj\Debug\netcoreapp3.1\hide message to image.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berkg\source\repos\BloGs Project\yeni yöntem\obj\Debug\netcoreapp3.1\hide message to image.AssemblyInfoInputs.cache
+C:\Users\berkg\source\repos\BloGs Project\yeni yöntem\obj\Debug\netcoreapp3.1\hide message to image.AssemblyInfo.cs
+C:\Users\berkg\source\repos\BloGs Project\yeni yöntem\obj\Debug\netcoreapp3.1\hide message to image.csproj.CoreCompileInputs.cache
+C:\Users\berkg\source\repos\BloGs Project\yeni yöntem\obj\Debug\netcoreapp3.1\hide message to image.csproj.CopyComplete
+C:\Users\berkg\source\repos\BloGs Project\yeni yöntem\obj\Debug\netcoreapp3.1\hide message to image.dll
+C:\Users\berkg\source\repos\BloGs Project\yeni yöntem\obj\Debug\netcoreapp3.1\hide message to image.pdb
+C:\Users\berkg\source\repos\BloGs Project\yeni yöntem\obj\Debug\netcoreapp3.1\hide message to image.genruntimeconfig.cache

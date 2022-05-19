@@ -1,0 +1,22 @@
+C:\Users\berkg\source\repos\BloGs Project\yeni yöntem\bin\Debug\netcoreapp3.1\yeni yöntem.exe
+C:\Users\berkg\source\repos\BloGs Project\yeni yöntem\bin\Debug\netcoreapp3.1\yeni yöntem.deps.json
+C:\Users\berkg\source\repos\BloGs Project\yeni yöntem\bin\Debug\netcoreapp3.1\yeni yöntem.runtimeconfig.json
+C:\Users\berkg\source\repos\BloGs Project\yeni yöntem\bin\Debug\netcoreapp3.1\yeni yöntem.runtimeconfig.dev.json
+C:\Users\berkg\source\repos\BloGs Project\yeni yöntem\bin\Debug\netcoreapp3.1\yeni yöntem.dll
+C:\Users\berkg\source\repos\BloGs Project\yeni yöntem\bin\Debug\netcoreapp3.1\yeni yöntem.pdb
+C:\Users\berkg\source\repos\BloGs Project\yeni yöntem\bin\Debug\netcoreapp3.1\SkiaSharp.dll
+C:\Users\berkg\source\repos\BloGs Project\yeni yöntem\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\berkg\source\repos\BloGs Project\yeni yöntem\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\berkg\source\repos\BloGs Project\yeni yöntem\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\berkg\source\repos\BloGs Project\yeni yöntem\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\berkg\source\repos\BloGs Project\yeni yöntem\obj\Debug\netcoreapp3.1\yeni yöntem.csproj.AssemblyReference.cache
+C:\Users\berkg\source\repos\BloGs Project\yeni yöntem\obj\Debug\netcoreapp3.1\yeni_yöntem.Form1.resources
+C:\Users\berkg\source\repos\BloGs Project\yeni yöntem\obj\Debug\netcoreapp3.1\yeni yöntem.csproj.GenerateResource.cache
+C:\Users\berkg\source\repos\BloGs Project\yeni yöntem\obj\Debug\netcoreapp3.1\yeni yöntem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berkg\source\repos\BloGs Project\yeni yöntem\obj\Debug\netcoreapp3.1\yeni yöntem.AssemblyInfoInputs.cache
+C:\Users\berkg\source\repos\BloGs Project\yeni yöntem\obj\Debug\netcoreapp3.1\yeni yöntem.AssemblyInfo.cs
+C:\Users\berkg\source\repos\BloGs Project\yeni yöntem\obj\Debug\netcoreapp3.1\yeni yöntem.csproj.CoreCompileInputs.cache
+C:\Users\berkg\source\repos\BloGs Project\yeni yöntem\obj\Debug\netcoreapp3.1\yeni yöntem.csproj.CopyComplete
+C:\Users\berkg\source\repos\BloGs Project\yeni yöntem\obj\Debug\netcoreapp3.1\yeni yöntem.dll
+C:\Users\berkg\source\repos\BloGs Project\yeni yöntem\obj\Debug\netcoreapp3.1\yeni yöntem.pdb
+C:\Users\berkg\source\repos\BloGs Project\yeni yöntem\obj\Debug\netcoreapp3.1\yeni yöntem.genruntimeconfig.cache
